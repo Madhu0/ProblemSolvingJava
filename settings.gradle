@@ -1,0 +1,3 @@
+rootProject.name = 'problemsolving'
+include 'models'
+include 'problems'
